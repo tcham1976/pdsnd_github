@@ -6,6 +6,8 @@ How to run this project with code
 
 This porject uses data from  bikeshare
 
+The bikeshare project uses python
+
 ### Date created
 Include the date you created this project and README file.
 
