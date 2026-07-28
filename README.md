@@ -2,6 +2,10 @@
 
 The Bikeshare Project analyzes bike rental data and fileters on city, month and day of week
 
+How to run this project with code
+
+This porject uses data from  bikeshare
+
 ### Date created
 Include the date you created this project and README file.
 
